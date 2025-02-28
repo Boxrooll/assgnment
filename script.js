@@ -3,7 +3,7 @@
 let jedi = [];
 console.log(jedi);
 
-jedi[Luke]
+jedi[0] = `Luke`;
 
 const arrayNum1 = jedi.push(`Obi-Wan Kenobi`);
 
